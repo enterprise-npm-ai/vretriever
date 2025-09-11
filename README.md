@@ -11,4 +11,4 @@ console.log(vretriever.retrieve("foo")) // 'foo'
 console.log(vretriever.retrieve()) // undefined
 ```
 
-## 10xGPWTHPL Licenced
+## Mit Licenced
