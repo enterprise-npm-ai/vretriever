@@ -1,6 +1,6 @@
 {
   "name": "vretriever",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Retrieve values easily.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/10xEngineersQualityProgramming/vretriever.git"
+    "url": "git+https://github.com/enterprise-npm-ai/vretriever.git"
   },
   "keywords": [
     "retrieve",
@@ -21,11 +21,11 @@
     "not-1x"
   ],
   "author": "me",
-  "license": "10xGPWTHPL",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/10xEngineersQualityProgramming/vretriever/issues"
+    "url": "https://github.com/enterprise-npm-ai/vretriever/issues"
   },
-  "homepage": "https://github.com/10xEngineersQualityProgramming/vretriever#readme",
+  "homepage": "https://github.com/enterprise-npm-ai/vretriever#readme",
   "dependencies": {
     "@_immo/return": "^1.1.1",
     "array-map": "^0.0.1",
@@ -37,6 +37,6 @@
     "lodash.constant": "^3.0.0",
     "lodash.identity": "^3.0.0",
     "underscore": "^1.13.7",
-    "vvalue": "^1.0.0"
+    "vvalue": "^1.1.0"
   }
 }
