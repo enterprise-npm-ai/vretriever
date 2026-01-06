@@ -1,6 +1,6 @@
 {
   "name": "vretriever",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Retrieve values easily.",
   "main": "index.js",
   "scripts": {
@@ -36,6 +36,6 @@
     "lodash.constant": "^3.0.0",
     "lodash.identity": "^3.0.0",
     "underscore": "^1.13.7",
-    "vvalue": "^1.1.0"
+    "vvalue": "^1.1.3"
   }
 }
